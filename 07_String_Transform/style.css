@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align:  center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(49, 48, 48);
+}
+main{
+    max-width: 500px;
+    margin: 0 auto;
+}
+input{
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+   
+}
+.transformed-output{
+    background-color: rgb(220, 185, 157);
+    position: relative;
+    font-size: 1.2rem;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    text-align: left;
+}
+.transformed-output label{
+    position: absolute;
+    font-size: 0.75rem;
+    left: 1rem;
+    top: -0.95rem;
+    background-color: rgb(115, 68, 10);
+    color: white;
+    padding: 0.25rem;
+}
