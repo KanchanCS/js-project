@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/fed994fd-5114-4d0a-8586-3241df858b4e
 [Open Source Code]
 </details>
 
-
+<details >
 <summary>07 Transform_String</summary>
 <br>
    https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
