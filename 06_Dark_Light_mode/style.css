@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body.dark{
+    background-color: #333;
+    color: rgb(184, 179, 179);
+}
+h1{
+    margin-bottom: 50px;
+    padding: 10px 40px;
+}
+.container{
+    border:  3px solid blue;
+    padding: 30px;
+    margin-top: 20px;
+    background-color: white;
+  color: black;
+}
+section{
+    align-items: center;
+    max-width: 600px;
+    margin-left: 300px;
+    
+}
+
+.container.dark{
+    background-color: #333;
+    color: rgb(184, 179, 179);
+    border: 4px solid #cdc2c2;
+}
