@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
   <br>
   
 ### Get Source Code
-[Visit GitHub](https://github.com "GitHub Homepage")
+[Open Source Code](https://github.com "GitHub Homepage"](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
 
 </details>
 
