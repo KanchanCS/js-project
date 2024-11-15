@@ -59,10 +59,10 @@ https://github.com/user-attachments/assets/db2c3d3d-3813-4b4e-aa33-554214ccf4e2
 https://github.com/user-attachments/assets/c0851699-d2de-4210-aa43-aeb812f45eab
 
 
-    <br>
+    
     
   ### Get Source Code
-  [Open Source Code]
+  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/08_Auto_Typing)
 
 </details>
 
