@@ -90,6 +90,9 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
   * `memeTitle.innerText = title`: Updates the title of the meme.
   * `memeImage.src = url`: Sets the image `src` attribute to the URL of the meme.
   * `authorOutput.innerText = \`Meme by: ${author}: Displays the author's name below the meme.
+
+#### 3.  `getMeme()` This function call ensures that a meme is loaded automatically when the page is first opened.
+
    * ### Get Source Code
    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/09_Meme_Generate_API)
 
