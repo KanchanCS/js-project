@@ -1,4 +1,4 @@
-# All JavaScript Project
+# All JavaScript Project Live Demo
 <details >
 <summary>01 Color_Changer</summary>
 <br>
