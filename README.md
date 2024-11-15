@@ -103,6 +103,12 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
    * Adds a `click` event listener to the "Generate Meme" button.
    * When clicked, it calls the `getMeme()` function to fetch and display a new meme.
 })
+
+## Key Features
+  * Dynamic Fetching: Uses the Fetch API to get data from `https://meme-api.com/gimme/wholesomememes`.
+  * Event Handling: Uses an event listener to handle button clicks.
+  * Dynamic Content Update: Updates the webpage with new data (title, image, and author) every time a new meme is fetched.
+    
    * ### Get Source Code
    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/09_Meme_Generate_API)
 
