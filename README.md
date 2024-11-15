@@ -4,8 +4,11 @@
 <br>
 
 
-
+    
 https://github.com/user-attachments/assets/fed994fd-5114-4d0a-8586-3241df858b4e
+
+
+
 <br>
 ### Get Source Code
 [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/01_colorChanger)
@@ -39,8 +42,11 @@ https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
 <details >
 <summary>06 Dark_light_Mode</summary>
 <br>
+
+
+    
 https://github.com/user-attachments/assets/db2c3d3d-3813-4b4e-aa33-554214ccf4e2
-    <br>
+    
     
   ### Get Source Code
   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/06_Dark_Light_mode)
