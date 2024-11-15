@@ -84,7 +84,12 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
 
   * The `fetch()` function requests data from the `meme-api` URL for wholesome `memes: https://meme-api.com/gimme/wholesomememes.`
   * `.then(response => response.json())` parses the fetched response into JSON format.
+#### 2. Extract and Display Meme Data:
 
+  * The API returns an object containing `author`, `title`, and `url`. These are destructured into variables.
+  * `memeTitle.innerText = title`: Updates the title of the meme.
+  * `memeImage.src = url`: Sets the image `src` attribute to the URL of the meme.
+  * `authorOutput.innerText = \`Meme by: ${author}: Displays the author's name below the meme.
    * ### Get Source Code
    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/09_Meme_Generate_API)
 
