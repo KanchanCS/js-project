@@ -92,7 +92,9 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
   * `authorOutput.innerText = \`Meme by: ${author}: Displays the author's name below the meme.
 
 #### 3.  `getMeme()` This function call ensures that a meme is loaded automatically when the page is first opened.
-
+#### 4.  `Event Listener:`
+      * Adds a `click` event listener to the "Generate Meme" button.
+      * When clicked, it calls the `getMeme()` function to fetch and display a new meme.
    * ### Get Source Code
    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/09_Meme_Generate_API)
 
