@@ -80,6 +80,22 @@ https://github.com/user-attachments/assets/c0851699-d2de-4210-aa43-aeb812f45eab
    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/08_Auto_Typing)
 
 </details>
+<details>
+<summary>09 Generate_Meme_API</summary>
+<br>
+         
+
+
+
+https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
+
+
+
+
+   * ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/08_Auto_Typing)
+
+</details>
 
 
 
