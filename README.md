@@ -10,8 +10,9 @@ https://github.com/user-attachments/assets/fed994fd-5114-4d0a-8586-3241df858b4e
 
 
 <br>
-### Get Source Code
-[Open Source Code](https://github.com/KanchanCS/js-project/tree/main/01_colorChanger)
+
+ * ### Get Source Code
+      [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/01_colorChanger)
 </details>
 
 <details >
@@ -23,8 +24,8 @@ https://github.com/user-attachments/assets/fed994fd-5114-4d0a-8586-3241df858b4e
 https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
     
     
-  ### Get Source Code
-  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
+  *  ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
 
 </details>
 
@@ -34,8 +35,8 @@ https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
   
     <br>
     
-  ### Get Source Code
-  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
+   * ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
 
 </details>
 
@@ -48,8 +49,8 @@ https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
 https://github.com/user-attachments/assets/db2c3d3d-3813-4b4e-aa33-554214ccf4e2
     
     
-  ### Get Source Code
-  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/06_Dark_Light_mode)
+   * ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/06_Dark_Light_mode)
 
 </details>
 <details >
@@ -61,8 +62,8 @@ https://github.com/user-attachments/assets/db2c3d3d-3813-4b4e-aa33-554214ccf4e2
 https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
     
     
-  ### Get Source Code
-  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
+  * ### Get Source Code
+    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
 
 </details>
 <details>
@@ -75,8 +76,8 @@ https://github.com/user-attachments/assets/c0851699-d2de-4210-aa43-aeb812f45eab
 
     
     
-  ### Get Source Code
-  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/08_Auto_Typing)
+   * ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/08_Auto_Typing)
 
 </details>
 
