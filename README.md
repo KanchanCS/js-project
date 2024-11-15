@@ -20,6 +20,18 @@ https://github.com/user-attachments/assets/fed994fd-5114-4d0a-8586-3241df858b4e
   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
 
 </details>
+
+<details >
+<summary>03 Counter</summary>
+<br>
+  
+    <br>
+    
+  ### Get Source Code
+  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
+
+</details>
+
 <details >
 <summary>06 Dark_light_Mode</summary>
 <br>
