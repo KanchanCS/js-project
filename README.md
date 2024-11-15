@@ -17,26 +17,15 @@ https://github.com/user-attachments/assets/fed994fd-5114-4d0a-8586-3241df858b4e
 
 <details >
 <summary>02 Digital_Clock</summary>
-<br>
 
-
-
-https://github.com/user-attachments/assets/9027ad8e-0dbc-4127-83e7-08f3abb0106d
-    
-    
-  *  ### Get Source Code
-   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
 
 </details>
 
 <details >
 <summary>03 Counter</summary>
-<br>
+
   
-    <br>
-    
-   * ### Get Source Code
-   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
+
 
 </details>
 
