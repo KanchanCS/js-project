@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/db2c3d3d-3813-4b4e-aa33-554214ccf4e2
     <br>
     
   ### Get Source Code
-  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/07_String_Transform)
+  [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/06_Dark_Light_mode)
 
 </details>
 <details >
