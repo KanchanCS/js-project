@@ -80,6 +80,11 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
 
 
 
+* `generatebtn` selects the "Generate Meme" button using its class `.btn.`
+* `memeTitle` selects the `<h1>` element where the meme title will be displayed.
+* `memeImage` selects the `<img>` element for the meme image.
+* `authorOutput` selects the `<p>` element for the author's name.
+
 #### 1. Fetch Data:
 
   * The `fetch()` function requests data from the `meme-api` URL for wholesome `memes: https://meme-api.com/gimme/wholesomememes.`
