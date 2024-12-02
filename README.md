@@ -155,7 +155,7 @@ https://github.com/user-attachments/assets/11656d95-3d45-4a17-b0a0-1b1099f1491b
      
      
 * ### Get Source Code
-   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/12_Quiz_app)
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/13_Calculator)
 
 ## 1. Selecting Elements:
 
