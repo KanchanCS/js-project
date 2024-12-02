@@ -116,8 +116,8 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
 <details>
     <summary>12 Quiz App</summary>
     <br>
-        
 
+        
 https://github.com/user-attachments/assets/2e0201f3-b132-408f-b553-0a295a0d69bb
 
      
@@ -137,6 +137,44 @@ https://github.com/user-attachments/assets/2e0201f3-b132-408f-b553-0a295a0d69bb
  * `reset()`: Clears previous selections.
  * `startTimer()`: Starts and updates the 10-second timer.
  * `quizEnd()`: Displays the final score when the quiz ends.
+
+
+</details>
+
+<details>
+    <summary>13 Calculator</summary>
+    <br>
+
+        
+
+https://github.com/user-attachments/assets/11656d95-3d45-4a17-b0a0-1b1099f1491b
+
+
+
+
+     
+     
+* ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/12_Quiz_app)
+
+## 1. Selecting Elements:
+
+ * The `input` variable holds a reference to the input box where the user sees their input or result.
+ * The `buttons` variable selects all button elements.
+### 2. Handling User Input:
+
+  * The `string` variable keeps track of the user’s input (the mathematical expression).
+  * The `arr` variable converts the list of buttons into an array for easier iteration.
+### 3. Event Handling:
+
+   * For each button:
+   * `=` Button: When clicked, the code evaluates the expression using `eval()` and displays the result.
+   * `AC` Button: Clears the entire input.
+   * `DEL` Button: Deletes the last character from the expression.
+   * Other Buttons (Numbers/Operators): Appends the button's value to the string and updates the input.
+### Updating Display:
+
+   * The input box `(input.value)` is updated after every button click to show the current state of the expression or result.
 
 
 </details>
