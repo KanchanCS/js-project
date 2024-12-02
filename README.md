@@ -125,6 +125,20 @@ https://github.com/user-attachments/assets/2e0201f3-b132-408f-b553-0a295a0d69bb
 * ### Get Source Code
    [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/12_Quiz_app)
 
+### 1. Quiz Data: Contains all the questions, options, and correct answers.
+### 2. Variables:
+* `index` tracks the current question.
+* `correct` and incorrect count the scores.
+* `timer` manages the countdown.
+### 3. Functions:
+ * `loadQuestion()`: Loads each question and starts the timer.
+ * `evaluateAnswer()`: Checks the user's answer.
+ * `getAnswer()`: Finds the selected radio button.
+ * `reset()`: Clears previous selections.
+ * `startTimer()`: Starts and updates the 10-second timer.
+ * `quizEnd()`: Displays the final score when the quiz ends.
+
+
 </details>
 
 
