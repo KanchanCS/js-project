@@ -113,6 +113,20 @@ https://github.com/user-attachments/assets/72874079-76c7-48ad-b0f0-dfc03a2d0abc
 
 </details>
 
+<details>
+    <summary>12 Quiz App</summary>
+    <br>
+        
+
+https://github.com/user-attachments/assets/2e0201f3-b132-408f-b553-0a295a0d69bb
+
+     
+     
+* ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/12_Quiz_app)
+
+</details>
+
 
 
 
