@@ -179,6 +179,28 @@ https://github.com/user-attachments/assets/11656d95-3d45-4a17-b0a0-1b1099f1491b
 
 </details>
 
+<details>
+    <summary>14 TextToVoice-Converter
+r</summary>
+    <br>
+
+        
+
+
+
+https://github.com/user-attachments/assets/0c5bbd01-d4c4-4ebd-a3df-6560986132d3
+
+
+
+     
+     
+* ### Get Source Code
+   [Open Source Code](https://github.com/KanchanCS/js-project/tree/main/13_Calculator)
+
+
+</details>
+
+
 
 
 
